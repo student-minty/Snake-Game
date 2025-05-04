@@ -1,2 +1,2 @@
 # Snake-Game
-It's my frontend project.
+It's my first frontend project.
